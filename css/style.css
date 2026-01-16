@@ -129,13 +129,13 @@ main {
     position: absolute;
     color: white;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
-    transform: translateX(700px);
+    transform: translateX(900px);
 }
 
 .н {
     position: absolute;
     top: 20%;
-    transform: translateX(700px);
+    transform: translateX(900px);
     width: 90%;
     color: white;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
@@ -147,7 +147,7 @@ main {
 .у {
     position: absolute;
     top: 65%;
-    transform: translateX(700px);
+    transform: translateX(900px);
     width: 99%;
     color: #ddd;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
